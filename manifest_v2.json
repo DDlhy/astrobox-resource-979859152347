@@ -1,0 +1,59 @@
+{
+  "item": {
+    "id": "979859152347",
+    "restype": "watchface",
+    "name": "Horizon",
+    "description": "橙金细磁极线、全屏斜向光束、中央发光时间盘，线束带轻缓舒展带给你前所未有的体验。",
+    "preview": [
+      "media/pro.png",
+      "media/band10.png"
+    ],
+    "icon": "media/屏幕截图 2026-10-23 152000.png",
+    "cover": "media/扭转磁极线至45° (3)-tuya.png",
+    "author": [
+      {
+        "name": "lhy",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10": {
+      "version": "0.10.0",
+      "file_name": "downloads/BlackHole10.face",
+      "versionCode": 2560
+    },
+    "xmb10nfc": {
+      "version": "0.10.0",
+      "file_name": "downloads/BlackHole10.face",
+      "versionCode": 2560
+    },
+    "xmb10p": {
+      "version": "0.10.0",
+      "file_name": "downloads/BlackHole.face",
+      "versionCode": 2560
+    },
+    "xmb11": {
+      "version": "0.10.0",
+      "file_name": "downloads/BlackHole10.face",
+      "versionCode": 2560
+    },
+    "xmb11nfc": {
+      "version": "0.10.0",
+      "file_name": "downloads/BlackHole10.face",
+      "versionCode": 2560
+    },
+    "xmb9": {
+      "version": "0.10.0",
+      "file_name": "downloads/BlackHole10.face",
+      "versionCode": 2560
+    },
+    "xmb9p": {
+      "version": "0.10.0",
+      "file_name": "downloads/BlackHole.face",
+      "versionCode": 2560
+    }
+  },
+  "ext": {}
+}
