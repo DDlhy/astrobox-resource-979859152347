@@ -20,39 +20,39 @@
   "links": [],
   "downloads": {
     "xmb10": {
-      "version": "0.10.0",
-      "file_name": "downloads/BlackHole10.face",
-      "versionCode": 2560
+      "version": "1.0.0",
+      "file_name": "downloads/黑洞-AgencyBold-手环10.face",
+      "versionCode": 65536
     },
     "xmb10nfc": {
-      "version": "0.10.0",
-      "file_name": "downloads/BlackHole10.face",
-      "versionCode": 2560
+      "version": "1.0.0",
+      "file_name": "downloads/黑洞-AgencyBold-手环10.face",
+      "versionCode": 65536
     },
     "xmb10p": {
-      "version": "0.10.0",
-      "file_name": "downloads/BlackHole.face",
-      "versionCode": 2560
+      "version": "1.0.0",
+      "file_name": "downloads/黑洞-AgencyBold-Pro.face",
+      "versionCode": 65536
     },
     "xmb11": {
-      "version": "0.10.0",
-      "file_name": "downloads/BlackHole10.face",
-      "versionCode": 2560
+      "version": "1.0.0",
+      "file_name": "downloads/黑洞-AgencyBold-手环10.face",
+      "versionCode": 65536
     },
     "xmb11nfc": {
-      "version": "0.10.0",
-      "file_name": "downloads/BlackHole10.face",
-      "versionCode": 2560
+      "version": "1.0.0",
+      "file_name": "downloads/黑洞-AgencyBold-手环10.face",
+      "versionCode": 65536
     },
     "xmb9": {
-      "version": "0.10.0",
-      "file_name": "downloads/BlackHole10.face",
-      "versionCode": 2560
+      "version": "1.0.0",
+      "file_name": "downloads/黑洞-AgencyBold-手环10.face",
+      "versionCode": 65536
     },
     "xmb9p": {
-      "version": "0.10.0",
-      "file_name": "downloads/BlackHole.face",
-      "versionCode": 2560
+      "version": "1.0.0",
+      "file_name": "downloads/黑洞-AgencyBold-Pro.face",
+      "versionCode": 65536
     }
   },
   "ext": {}
